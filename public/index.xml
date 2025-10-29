@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Daniel Wong - Portfolio</title>
+    <link>http://localhost:1313/hugo-app/</link>
+    <description>Recent content on Daniel Wong - Portfolio</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Oct 2025 00:14:39 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Professional Experience</title>
+      <link>http://localhost:1313/hugo-app/experience/</link>
+      <pubDate>Wed, 29 Oct 2025 00:14:39 -0500</pubDate>
+      <guid>http://localhost:1313/hugo-app/experience/</guid>
+      <description>&lt;h1 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h1&gt;
+&lt;h2 id=&#34;machine-learning-researcher&#34;&gt;Machine Learning Researcher&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Transportation Security Research&lt;/strong&gt; | Evanston, IL&lt;br&gt;
+&lt;em&gt;September 2024 – Present&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conducting unsupervised learning (K-means and DBSCAN) to infer transportation modes&lt;/li&gt;
+&lt;li&gt;Automating TSI estimation for 4 major Chicago regions, replacing &lt;em&gt;costly survey-based methods&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Presenting findings to an external data provider, specifying additional data needed for further research&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;software-developer&#34;&gt;Software Developer&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Northwestern Solar Car Team (NUSolar)&lt;/strong&gt; | Evanston, IL&lt;br&gt;
+&lt;em&gt;September 2023 – Present&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Communicating project plans and goals to a team of engineers around creating the car dashboard interface&lt;/li&gt;
+&lt;li&gt;Maintaining efficient project execution by assigning tasks based on team members&amp;rsquo; skills&lt;/li&gt;
+&lt;li&gt;Adapting to diverse coding styles to help troubleshoot team members&amp;rsquo; code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;researcher&#34;&gt;Researcher&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Murphy Scholars Program&lt;/strong&gt; | Evanston, IL&lt;br&gt;
+&lt;em&gt;March 2023 – Present&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/hugo-app/education/</link>
+      <pubDate>Tue, 28 Oct 2025 23:59:47 -0500</pubDate>
+      <guid>http://localhost:1313/hugo-app/education/</guid>
+      <description>&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
+&lt;h2 id=&#34;bs-in-computer-science&#34;&gt;B.S. in Computer Science&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Northwestern University&lt;/strong&gt; | September 2022 - June 2026&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Major:&lt;/strong&gt; Computer Science&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Minor:&lt;/strong&gt; Data Science&lt;/li&gt;
+&lt;li&gt;Focus areas include software engineering, web development, and data analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ms-in-computer-science&#34;&gt;M.S. in Computer Science&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Northwestern University&lt;/strong&gt; | September 2025 - June 2026&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Advanced coursework in computer science&lt;/li&gt;
+&lt;li&gt;Specialized studies in &lt;strong&gt;software development&lt;/strong&gt; and &lt;strong&gt;machine learning&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Concurrent enrollment with undergraduate degree through BS/MS program&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;special-affiliations&#34;&gt;Special Affiliations&lt;/h2&gt;
+&lt;h3 id=&#34;murphy-scholars-program&#34;&gt;Murphy Scholars Program&lt;/h3&gt;
+&lt;p&gt;I am proud to be part of the &lt;strong&gt;Northwestern Murphy Scholars Program&lt;/strong&gt;, a selective research group for undergraduates here on campus.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/hugo-app/about/</link>
+      <pubDate>Tue, 28 Oct 2025 23:12:49 -0500</pubDate>
+      <guid>http://localhost:1313/hugo-app/about/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Hello! I&amp;rsquo;m &lt;strong&gt;Daniel Wong&lt;/strong&gt;, a Computer Science student at &lt;em&gt;Northwestern University&lt;/em&gt;. I&amp;rsquo;m passionate about software development, web technologies, and creating innovative solutions to real-world problems.&lt;/p&gt;
+&lt;h2 id=&#34;skills--interests&#34;&gt;Skills &amp;amp; Interests&lt;/h2&gt;
+&lt;p&gt;I have experience with various programming languages and frameworks, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Web Development:&lt;/strong&gt; HTML, CSS, JavaScript, React&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Backend:&lt;/strong&gt; Python, Node.js, Ruby on Rails&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tools:&lt;/strong&gt; Git, VS Code, Hugo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
+&lt;p&gt;Throughout my time at Northwestern, I&amp;rsquo;ve worked on several exciting projects that combine my interests in technology and problem-solving. Visit my &lt;a href=&#34;https://github.com/danielwong0115&#34;&gt;GitHub profile&lt;/a&gt; to see my latest work!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

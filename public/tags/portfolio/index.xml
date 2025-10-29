@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Portfolio on Daniel Wong - Portfolio</title>
+    <link>http://localhost:1313/hugo-app/tags/portfolio/</link>
+    <description>Recent content in Portfolio on Daniel Wong - Portfolio</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Oct 2025 23:14:09 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-app/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building My Portfolio with Hugo</title>
+      <link>http://localhost:1313/hugo-app/posts/second-post/</link>
+      <pubDate>Tue, 28 Oct 2025 23:14:09 -0500</pubDate>
+      <guid>http://localhost:1313/hugo-app/posts/second-post/</guid>
+      <description>&lt;h1 id=&#34;building-my-portfolio-with-hugo&#34;&gt;Building My Portfolio with Hugo&lt;/h1&gt;
+&lt;h2 id=&#34;the-project&#34;&gt;The Project&lt;/h2&gt;
+&lt;p&gt;Creating a personal portfolio is an &lt;strong&gt;essential step&lt;/strong&gt; for any developer. It&amp;rsquo;s a place to showcase your work, share your thoughts, and connect with others in the &lt;em&gt;tech community&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;why-a-static-site&#34;&gt;Why a Static Site?&lt;/h2&gt;
+&lt;p&gt;Static sites offer several advantages:&lt;/p&gt;
+&lt;h3 id=&#34;performance-benefits&#34;&gt;Performance Benefits&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Fast loading times&lt;/strong&gt; - No server-side processing required&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Security&lt;/strong&gt; - Fewer attack vectors compared to dynamic sites&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cost-effective&lt;/strong&gt; - Can be hosted for free on platforms like GitHub Pages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;developer-experience&#34;&gt;Developer Experience&lt;/h3&gt;
+&lt;p&gt;The workflow is incredibly smooth:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

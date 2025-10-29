@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Learning on Daniel Wong - Portfolio</title>
+    <link>http://localhost:1313/hugo-app/tags/learning/</link>
+    <description>Recent content in Learning on Daniel Wong - Portfolio</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Oct 2025 23:13:59 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-app/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Journey into Web Development</title>
+      <link>http://localhost:1313/hugo-app/posts/first-post/</link>
+      <pubDate>Tue, 28 Oct 2025 23:13:59 -0500</pubDate>
+      <guid>http://localhost:1313/hugo-app/posts/first-post/</guid>
+      <description>&lt;h1 id=&#34;my-journey-into-web-development&#34;&gt;My Journey into Web Development&lt;/h1&gt;
+&lt;h2 id=&#34;getting-started-with-hugo&#34;&gt;Getting Started with Hugo&lt;/h2&gt;
+&lt;p&gt;Welcome to my first blog post! I&amp;rsquo;m excited to share my experience learning &lt;strong&gt;Hugo&lt;/strong&gt;, a powerful static site generator that makes building websites incredibly &lt;em&gt;efficient&lt;/em&gt; and &lt;em&gt;fun&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;why-hugo&#34;&gt;Why Hugo?&lt;/h2&gt;
+&lt;p&gt;Hugo stands out for several reasons:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Speed&lt;/strong&gt; - It&amp;rsquo;s incredibly fast at building sites&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Simplicity&lt;/strong&gt; - Easy to learn and use&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flexibility&lt;/strong&gt; - Supports various content types and themes&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;the-learning-process&#34;&gt;The Learning Process&lt;/h3&gt;
+&lt;p&gt;Learning Hugo has been an amazing experience. The &lt;a href=&#34;https://gohugo.io&#34;&gt;official documentation&lt;/a&gt; is comprehensive and well-written, making it easy to get started even as a beginner.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

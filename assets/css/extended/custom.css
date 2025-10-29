@@ -1,0 +1,8 @@
+
+.profile img {
+    width: 325px !important;
+    height: 325px !important;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
